@@ -1,0 +1,9 @@
+python
+python-numpy
+python-scipy
+python-soundfile
+python-matplotlib
+python-pytest
+ruff
+ffmpeg
+libsndfile

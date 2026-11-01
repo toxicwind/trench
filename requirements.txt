@@ -1,0 +1,7 @@
+numpy
+scipy
+soundfile
+pyloudnorm
+matplotlib
+pytest
+ruff

@@ -1,0 +1,38 @@
+{
+  "duration_s": 120.0,
+  "bpm": 140,
+  "bars": 70,
+  "lufs": -10.981365971140022,
+  "peak_dbfs": -1.0024459192625041,
+  "samples_used": "none (synth stand-ins)",
+  "sections": {
+    "intro": [
+      1,
+      8
+    ],
+    "build1": [
+      9,
+      12
+    ],
+    "drop1": [
+      13,
+      28
+    ],
+    "break": [
+      29,
+      36
+    ],
+    "build2": [
+      37,
+      40
+    ],
+    "drop2": [
+      41,
+      60
+    ],
+    "outro": [
+      61,
+      70
+    ]
+  }
+}

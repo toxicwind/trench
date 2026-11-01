@@ -1,0 +1,9 @@
+[tools]
+python = "3.12"
+
+[tasks.render]
+run = "PYTHONPATH=src python -m trench.render"
+[tasks.test]
+run = "ruff check src tests && pytest -q"
+[tasks.all]
+depends = ["render", "test"]

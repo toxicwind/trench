@@ -1,0 +1,27 @@
+{
+  "name": "trench",
+  "version": "1.0.0",
+  "description": "2:00 procedural arrangement (140 BPM half-time, 70 bars, two different drops)",
+  "main": "src/main.py",
+  "scripts": {
+    "dev": "make all",
+    "test": "make test",
+    "build": "make all"
+  },
+  "dependencies": {
+    "numpy": "^1.26.0",
+    "scipy": "^1.11.0",
+    "pyloudnorm": "^0.2.1",
+    "mido": "^1.2.10",
+    "pydub": "^0.25.1"
+  },
+  "devDependencies": {
+    "ruff": "^0.1.0"
+  },
+  "engines": {
+    "python": ">=3.9"
+  },
+  "bin": {},
+  "type": "module",
+  "private": true
+}
